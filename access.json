@@ -1,0 +1,9 @@
+{
+  "trial_days": 7,
+  "login_required": false,
+  "lock_all": false,
+  "extend_all_until": "",
+  "extend": {},
+  "unlimited_installs": [],
+  "users": {}
+}
